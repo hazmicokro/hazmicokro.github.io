@@ -1,6 +1,6 @@
 # hazmicokro.github.io
 
-Website Portofolio - Hazmi Cokro - 2021
-[1] Intro \
-[2] Project \
-[3] Contact Me \
+Hazmi Cokro
+
+## Statistics Profile Github:
+<img src="https://github-readme-stats.vercel.app/api?username=hazmicokro&show_icons=true">
